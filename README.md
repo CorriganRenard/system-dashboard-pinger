@@ -9,7 +9,9 @@ I then built a small rest API with go to store ip addresses and related data int
 
 I am currently adapting the pinger module to work from data taken from MongoDB instead of command line arguments. 
 
-The front end it is also in progress and will be a few simple react components that show the building that the router/access point is in and will ping the access points in that building newlin on click. 
+The front end is also in progress and will be a few simple react components that show the building that the router/access point is in and will ping the access points in that building newlin on click. 
 
 There will be some flashy javascript animations on top of that to make it look cool.
+
+The end. 
 
